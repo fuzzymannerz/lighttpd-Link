@@ -30,7 +30,8 @@ It will now run as a background process until stopped or until the Steam Link is
 ```bash
 pkill lighttpd
 ```
-See `home/steam/http/serve.conf` for configuration example and refer to https://redmine.lighttpd.net/projects/1/wiki/TutorialConfiguration for more info.
+See `home/steam/http/serve.conf` for a basic configuration example.    
+Refer to https://redmine.lighttpd.net/projects/1/wiki/TutorialConfiguration for more info.
 
 # Uninstallation
 If you factory reset your Steam Link lighttpd-Link will be removed. Otherwise you can run the following via SSH:
