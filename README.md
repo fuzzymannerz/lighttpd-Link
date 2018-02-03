@@ -24,7 +24,7 @@ Could be used for system monitoring pages, web dashboards and so on...
 # Usage
 ### To Start:
 ```bash
-lighttpd -f home/steam/http/serve.conf
+lighttpd -f /home/steam/http/serve.conf
 ```
 It will now run as a background process until stopped or until the Steam Link is turned off.
 ### To Stop:
