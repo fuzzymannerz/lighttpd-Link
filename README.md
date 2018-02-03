@@ -1,8 +1,11 @@
 # lighttpd-Link
 A lighttpd powered lightweight web server for the Steam Link
 
+![](https://i.imgur.com/EGgvc40.png)
 
+Could be used for system monitoring pages, web dashboards and so on...
 
+----
 
 # Requirements
 - A Steam Link (obviously)
