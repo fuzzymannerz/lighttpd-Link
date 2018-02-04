@@ -15,9 +15,7 @@ Could be used for system monitoring pages, web dashboards and so on...
 
 # How To Install
 1. [Download the archive](https://github.com/fuzzymannerz/lighttpd-Link/archive/master.zip) and extract it somewhere.
-2. Upload everything inside the "*Upload*" folder to the steam link's filesystem root.
-
-**Note: Easy install script via SSH is a WIP.**
+2. Upload everything inside the "*Upload*" folder to the steam link's filesystem root via SSH. (Mounted or WinSCP etc...)
 
 ----
 
@@ -37,4 +35,5 @@ Refer to https://redmine.lighttpd.net/projects/1/wiki/TutorialConfiguration for 
 ----
 
 # Uninstallation
-If you factory reset your Steam Link lighttpd-Link will be removed. Otherwise you can delete the files matching the ones in the "upload" folder of this repo. **Uninstall script is a WIP.**
+If you factory reset your Steam Link lighttpd-Link will be removed.    
+Otherwise you can delete the files matching the ones in the "upload" folder of this repo.
