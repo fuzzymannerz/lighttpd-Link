@@ -40,10 +40,10 @@ Otherwise you can run the fancy uninstall script.
 
 **To unininstall everything, including the "*/home/steam/http*" folder:**
 ```bash
-wget https://github.com/fuzzymannerz/lighttpd-Link/rmLighttpd-Link.sh && chmod +x rmLighttpd-Link.sh && sh rmLighttpd-Link.sh
+wget https://raw.githubusercontent.com/fuzzymannerz/lighttpd-Link/master/rmLighttpd-Link.sh && chmod +x rmLighttpd-Link.sh && sh rmLighttpd-Link.sh
 ```
 
 **To just remove all files apart from the "*/home/steam/http*" folder:**
 ```bash
-wget https://github.com/fuzzymannerz/lighttpd-Link/rmLighttpd-Link.sh && chmod +x rmLighttpd-Link.sh && sh rmLighttpd-Link.sh keephttp
+wget https://raw.githubusercontent.com/fuzzymannerz/lighttpd-Link/master/rmLighttpd-Link.sh && chmod +x rmLighttpd-Link.sh && sh rmLighttpd-Link.sh keephttp
 ```
