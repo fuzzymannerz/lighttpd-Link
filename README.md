@@ -36,4 +36,14 @@ Refer to https://redmine.lighttpd.net/projects/1/wiki/TutorialConfiguration for 
 
 # Uninstallation
 If you factory reset your Steam Link lighttpd-Link will be removed.    
-Otherwise you can delete the files matching the ones in the "upload" folder of this repo.
+Otherwise you can run the fancy uninstall script.
+
+**To unininstall everything, including the */home/steam/http* folder:**
+```bash
+wget https://github.com/fuzzymannerz/lighttpd-Link/rmLighttpd-Link.sh && chmod +x rmLighttpd-Link.sh && sh rmLighttpd-Link.sh
+```
+
+**To just remove all files apart from the */home/steam/http* folder:**
+```bash
+wget https://github.com/fuzzymannerz/lighttpd-Link/rmLighttpd-Link.sh && chmod +x rmLighttpd-Link.sh && sh rmLighttpd-Link.sh keephttp
+```
