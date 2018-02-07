@@ -24,6 +24,9 @@ Could be used for system monitoring pages, web dashboards and so on...
 ```bash
 lighttpd -f /home/steam/http/serve.conf
 ```
+
+Note: You may first need to `chmod +x /usr/local/sbin/lighttpd`
+
 It will now run as a background process until stopped or until the Steam Link is turned off.
 ### To Stop:
 ```bash
