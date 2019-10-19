@@ -5,6 +5,9 @@ A lighttpd powered lightweight web server for the Steam Link
 
 Could be used for system monitoring pages, web dashboards and so on...
 
+**ALSO AVAILABLE WITH 100% MORE PHP 7:    
+https://github.com/fuzzymannerz/lighttpd-link-php7**
+
 ----
 
 # Requirements
